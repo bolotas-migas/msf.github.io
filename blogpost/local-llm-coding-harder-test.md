@@ -2,7 +2,7 @@
 
 *April 2026*[^1]
 
-*Previous: [I benchmarked 8 local LLMs writing Go on my Framework 13](benchmarking-local-llms-go-coding.md)*
+*Previous: [I benchmarked 8 local LLMs writing Go on my Framework 13](benchmarking-local-llms-go-coding.md) | [This is how SLOW Local LLMs Are](local-llm-performance-framework13.md)*
 
 [^1]: Co-authored with Claude Opus 4.6.
 

@@ -271,4 +271,5 @@ ROCBLAS_TENSILE_LIBPATH=./llama-rocm/rocblas/library \
 
 *Built with llama.cpp (commit 612db61 / 2026-02-10 for Vulkan, commit a0c91e8 / 2026-02-21 for ROCm via lemonade-sdk). Framework 13, Ubuntu 24.04, kernel 6.17.0.*
 
-*[Part 1: I benchmarked 8 local LLMs writing Go on my Framework 13 AMD Strix Point](benchmarking-local-llms-go-coding.md)*
+*[Part 1: I benchmarked 8 local LLMs writing Go on my Framework 13 AMD Strix Point](benchmarking-local-llms-go-coding.md)*  
+*[Part 3: Gemma 4 vs Qwen3.5 — harder benchmark](local-llm-coding-harder-test.md)*
