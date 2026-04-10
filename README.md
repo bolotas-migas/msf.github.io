@@ -8,17 +8,14 @@ TODO:
   - what is innovation?
   - ["view under the hood" of dynamoDB](DynamoDB-a-view-under-the-hood.pdf) (from my personal memory)
   - design docs and how emotional or rational they are.
-  - [Gemma 4 vs Qwen3.5: benchmarking quantized local LLMs on Go coding](blogpost/local-llm-coding-harder-test.md) — Apr 2026
-  - [This is how SLOW Local LLMs Are On My Framework 13 AMD Strix Point](blogpost/local-llm-performance-framework13.md) — Feb 2026
-  - [I benchmarked 8 local LLMs writing Go on my Framework 13 AMD Strix Point](blogpost/benchmarking-local-llms-go-coding.md) — Feb 2025
-  - [How we improved DuneAPI using DuckDB](blogpost/blogpost-improving-dune-API.md)
-- link to some toy repos of mine
-- link to my "publications" (including the software patents while at DynamoDB) 
+## Posts
 
-## Technical Papers & Study Notes
-
-- [EVM Foundations (7-day study guide)](papers/EVM-Foundations.md) — Mental models of EVM execution, storage, state, and gas
-- [Snowflake Paper & Architecture Review](papers/Snowflake-paper.md) — Deep dive into Snowflake's OLAP database architecture
+- [Gemma 4 vs Qwen3.5: benchmarking quantized local LLMs on Go coding](blogpost/local-llm-coding-harder-test.md) — Apr 2026
+- [This is how SLOW Local LLMs Are On My Framework 13 AMD Strix Point](blogpost/local-llm-performance-framework13.md) — Feb 2026
+- [EVM Foundations (7-day study guide)](papers/EVM-Foundations.md) — 2025
+- [I benchmarked 8 local LLMs writing Go on my Framework 13 AMD Strix Point](blogpost/benchmarking-local-llms-go-coding.md) — Feb 2025
+- [How we improved Dune API using DuckDB](blogpost/blogpost-improving-dune-API.md) — 2024
+- [Snowflake Paper and Architecture Review](papers/Snowflake-paper.md) — 2023
 
 ## Conference Talks & Notes
 
