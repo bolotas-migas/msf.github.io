@@ -2,7 +2,7 @@
 
 *April 2026*[^1]
 
-*Previous: [I benchmarked 8 local LLMs writing Go on my Framework 13](benchmarking-local-llms-go-coding.md) | [This is how SLOW Local LLMs Are](local-llm-performance-framework13.md)*
+*Part 3 of the local LLM series — [Part 1](benchmarking-local-llms-go-coding.md) | [Part 2](local-llm-performance-framework13.md)*
 
 [^1]: Co-authored with Claude Opus 4.6.
 
@@ -153,3 +153,10 @@ Qwen3.5 looks stronger on paper (TAU2, SWE-bench). Gemma 4 edges it on Arena AI.
 ```
 
 All code: [exam_v1/](exam_v1/), [exam_v2/](exam_v2/), [sweep.sh](sweep.sh). Results are local-only (regenerate with `./sweep.sh`).
+
+---
+
+*This is the third and final post in this series.*
+
+*Also read: [Part 1: I benchmarked 8 local LLMs writing Go](benchmarking-local-llms-go-coding.md)  
+[Part 2: This is how SLOW Local LLMs Are](local-llm-performance-framework13.md)*

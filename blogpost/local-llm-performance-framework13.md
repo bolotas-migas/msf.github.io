@@ -267,6 +267,8 @@ ROCBLAS_TENSILE_LIBPATH=./llama-rocm/rocblas/library \
 - Benchmark the new models: Qwen3-Coder-30B-A3B, Qwen2.5-Coder-14B. See [Part 1](benchmarking-local-llms-go-coding.md) for the coding benchmark these will run against.
 - Re-run the Part 1 coding exam with speculative decoding enabled -- wall times should drop significantly.
 
+*[The sequel: Gemma 4 vs Qwen3.5 — harder benchmark](local-llm-coding-harder-test.md)* — April 2026. Newer models, harder exam, multi-seed results.
+
 ---
 
 *Built with llama.cpp (commit 612db61 / 2026-02-10 for Vulkan, commit a0c91e8 / 2026-02-21 for ROCm via lemonade-sdk). Framework 13, Ubuntu 24.04, kernel 6.17.0.*
