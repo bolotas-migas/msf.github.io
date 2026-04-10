@@ -156,7 +156,5 @@ All code: [exam_v1/](exam_v1/), [exam_v2/](exam_v2/), [sweep.sh](sweep.sh). Resu
 
 ---
 
-*This is the third and final post in this series.*
-
 *Also read: [Part 1: I benchmarked 8 local LLMs writing Go](benchmarking-local-llms-go-coding.md)  
 [Part 2: This is how SLOW Local LLMs Are](local-llm-performance-framework13.md)*
