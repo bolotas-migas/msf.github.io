@@ -2,7 +2,7 @@
 
 *April 2026*[^1]
 
-*Part 3 of the local LLM series — [Part 1](benchmarking-local-llms-go-coding.md) | [Part 2](local-llm-performance-framework13.md)*
+**Part 3/3** — [Part 2](local-llm-performance-framework13.md) ← [Part 1](benchmarking-local-llms-go-coding.md)
 
 [^1]: Co-authored with Claude Opus 4.6.
 
